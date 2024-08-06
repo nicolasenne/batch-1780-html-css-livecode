@@ -1,0 +1,33 @@
+.cards {
+  display: flex;
+  justify-content: space-between;
+}
+
+.card {
+  width: 250px;
+}
+
+.card-white {
+  background-color: white;
+  padding: 8px;
+}
+
+.card-white img {
+  width: 100%;
+}
+
+.card-white-icons {
+  color: gray;
+  text-align: end;
+  margin-top: 8px;
+}
+
+.card-avatar {
+  display: flex;
+  align-items: center;
+  margin-top: 8px;
+}
+
+.card-link {
+  color: #4B94BD;
+}
